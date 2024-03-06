@@ -1,6 +1,9 @@
 
 :tropical_drink: Slowly learning how to code.
-### [Developer Roadmap](https://roadmap.sh/)
-### [Teach Yourself CS](https://teachyourselfcs.com/)
-### [edX](https://home.edx.org/)
+### LowTemp: Weather tracking command line app in Python3
+### [File Naming Utility](https://file-naming-utility.onrender.com/): Javascript/HTML/SQLfile naming helper
+
+### CS50x
+### CS50Python
+### CS50SQL
 
